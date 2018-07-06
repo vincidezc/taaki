@@ -263,6 +263,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.29.0+1"
+  share:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: "4833037478e3e0394ce0826267494f7448f29234"
+      url: "git://github.com/d-silveira/flutter-share.git"
+    source: git
+    version: "0.6.0"
   shelf:
     dependency: transitive
     description:
